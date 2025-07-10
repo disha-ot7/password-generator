@@ -1,5 +1,5 @@
 Advanced Password Generator :
-A FastAPI-based microservice that generates, analyzes, and checks passwords against real-world data breaches using the Have I Been Pwned API. Built with security and flexibility in mind.
+A FastAPI-based microservice built with Python that generates, analyzes, and checks passwords against real-world data breaches using the Have I Been Pwned API. Designed with security and flexibility in mind.
 🚀 Features
 ✅ Generate strong random passwords
 ✅ Customize length, digits, symbols, uppercase/lowercase
